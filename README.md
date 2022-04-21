@@ -5,7 +5,7 @@ There will be a simple donate button on the homepage. On clicking the donate but
 
 Once the payment is done an invoice will be generated and an email will be sent to the user for the payment received. The invoice will contain the amount. 
 
-Github Link:- https://github.com/bhavi140201/Paymen...
+Github Link:- 
 
 Technologies used :-
 HTML 
